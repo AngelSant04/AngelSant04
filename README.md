@@ -7,7 +7,7 @@
 - 💻 Vue, Angular, React, JavaScript, TypeScript
 - ⚙️ Django, PHP, Laravel
 - 🗄️ SQL, MySQL, PostgreSql
-- 📱 Android, Desktop, Java, Visual Basic
+- 📱🖥️Java, Visual Basic
 <br>
 
 ### ⚙️ &nbsp;GitHub Analytics
