@@ -3,8 +3,11 @@
 </div>
 
 - ⭐ Entusiasta en Nuevas Tecnologias ⭐ 
-- 💻 Front - End Developer
-- ❤️ Vue, Angular, React, JavaScript, TypeScript ❤️
+- ❤️ Analista Desarrollador ❤️
+- 💻 Vue, Angular, React, JavaScript, TypeScript
+- ⚙️ Django, PHP, Laravel
+- 🗄️ SQL, MySQL, PostgreSql
+- 📱 Android, Desktop, Java, Visual Basic
 <br>
 
 ### ⚙️ &nbsp;GitHub Analytics
