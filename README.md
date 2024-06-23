@@ -7,7 +7,7 @@
     align="center" 
     src="https://firebasestorage.googleapis.com/v0/b/proyecttpi.appspot.com/o/fotos%2FPortada%20Angel%20Santamaria.png?alt=media&token=e2cd4b76-e159-4b33-9161-5689879b33a6" 
     alt="angelStH" 
-    style="width: 780px; height: 350px;"
+    style="width: 740px; height: 350px;"
   />
 </a>
 </div>
