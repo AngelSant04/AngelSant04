@@ -10,7 +10,7 @@
 - ⚙️ Django, PHP, Laravel
 - 🗄️ SQL, MySQL, PostgreSql
 - 📱🖥️Java, Visual Basic
-div
+</div>
 <br>
 
 ### ⚙️ &nbsp;GitHub Analytics
