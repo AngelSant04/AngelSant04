@@ -1,6 +1,9 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://angelsant04.github.io/angel-dev/">Angel Santamaria</a> 👋</h1>
 </div>
+<a href="https://angelsant04.github.io/angel-dev/" target="blank"><img align="center" src="https://firebasestorage.googleapis.com/v0/b/proyecttpi.appspot.com/o/fotos%2FPortada%20Angel%20Santamaria.png?alt=media&token=e2cd4b76-e159-4b33-9161-5689879b33a6" alt="angelStH" />
+
+## Sobre mi
 
 - ⭐ Entusiasta en Nuevas Tecnologias ⭐ 
 - ❤️ Analista Desarrollador ❤️
