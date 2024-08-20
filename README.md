@@ -7,7 +7,7 @@
     align="center" 
     src="https://firebasestorage.googleapis.com/v0/b/proyecttpi.appspot.com/o/fotos%2FBanner%20Para%20LinkedIn%20de%20angel.png?alt=media&token=a04e4ccb-58d2-4887-9d60-e9897d98249c" 
     alt="angelStH" 
-    style="width: 740px; height: 350px;"
+    style="width: 100%; height: 100%;"
   />
 </a>
 </div>
