@@ -5,7 +5,7 @@
 <a href="https://angelsant04.github.io/angel-dev/" target="_blank">
   <img 
     align="center" 
-    src="https://firebasestorage.googleapis.com/v0/b/proyecttpi.appspot.com/o/fotos%2FBanner%20Para%20LinkedIn%20de%20angel.png?alt=media&token=a04e4ccb-58d2-4887-9d60-e9897d98249c" 
+    src="https://firebasestorage.googleapis.com/v0/b/storageeasyjob.appspot.com/o/images%2FBanner%20Para%20LinkedIn%20de%20angel.png?alt=media&token=a61ff2af-3caf-4b28-9cf0-2c532630cf00" 
     alt="angelStH" 
     style="width: 100%; height: 100%;"
   />
